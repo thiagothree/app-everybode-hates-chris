@@ -54,3 +54,8 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# Projeto
+package.json
+package-lock.json
+eas.json
