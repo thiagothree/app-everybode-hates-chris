@@ -30,8 +30,8 @@ _Tecnologias_ Utilizadas: **_React Native_**
 
 #### * Tela inicial
 
-![Tela inicial](src/images/screenshots/Screenshot_20230212-143940.png)
+![Tela inicial](src/images/screenshots/tela_inicial.png)
 
 #### * Exemplo frase
 
-![Tela inicial](src/images/screenshots/Screenshot_20230212-144124.png)
+![Tela inicial](src/images/screenshots/exemplo_frase.png)
