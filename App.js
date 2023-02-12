@@ -8,11 +8,9 @@ export default function App() {
 
   function escolherPersonagem() {
     let numeroAleatorio = Math.floor(Math.random() * frases.length)
-    /*let numeroAleatorio = 5*/
 
     setImg(imgs[numeroAleatorio])
     setFrase(`"${frases[numeroAleatorio]}" - ${ autor[numeroAleatorio]}`)
-    console.log(numeroAleatorio)
   }
 
   function home() {
